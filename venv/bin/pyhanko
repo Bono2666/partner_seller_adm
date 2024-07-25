@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/bono2666/Library/CloudStorage/OneDrive-Personal/Being Worked On/Sahabat Aqiqah/aqiqahon/venv/bin/python3.11" "$0" "$@"
+'''exec' "/Users/bono2666/Library/CloudStorage/OneDrive-Personal/Being Worked On/Sbcskin/partner_seller_adm/venv/bin/python3.11" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
